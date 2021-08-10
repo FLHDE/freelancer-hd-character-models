@@ -1,4 +1,4 @@
-# freelancer-hd-character-models
+# Freelancer HD Character Models
 An addon for the game Freelancer (2003) that replaces all existing character textures with HD ones.
 
 This includes:
