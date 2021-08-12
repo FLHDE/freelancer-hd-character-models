@@ -6,3 +6,5 @@ This includes:
 * Hands
 * Heads
 * Props
+
+All original textures have been upscaled by 400% using [ESRGAN](https://github.com/xinntao/ESRGAN), so 256x256 becomes 1024x1024, etc. The upscaling technology has allowed the quality of the textures to be improved without affecting their original look.
