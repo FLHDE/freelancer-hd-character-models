@@ -8,3 +8,6 @@ This includes:
 * Props
 
 All original textures have been upscaled by 400% using [ESRGAN](https://github.com/xinntao/ESRGAN), so 256x256 becomes 1024x1024, etc. The upscaling technology has allowed the quality of the textures to be improved without affecting their original look.
+
+
+**N.B. You may not notice the difference during general gameplay unless you're playing in a high resolution or viewing the characters up close**
