@@ -1,6 +1,6 @@
 <script>
 
-<header name="HD Character Models 1.1" savesafe="true">
+<header name="HD Character Models 2.0" savesafe="true">
 <scriptversion>
 1.0
 </scriptversion>
@@ -14,14 +14,15 @@ https://github.com/BC46/freelancer-hd-character-models
 An addon for the game Freelancer (2003) that replaces all existing character textures with HD ones.
 
 This includes:
-- Bodies
-- Hands
-- Heads
-- Props
+* Bodies
+* Helmets
+* Hands
+* Heads
+* Props
 
-All original textures have been upscaled by 400% using ESRGAN, so 256x256 becomes 1024x1024, etc. The upscaling technology has allowed the quality of the textures to be improved without affecting their original look.
+All original textures have been upscaled by 400% using  Real-ESRGAN (https://github.com/xinntao/Real-ESRGAN), so 256x256 becomes 1024x1024, etc. The upscaling technology has allowed the quality of the textures to be improved without affecting their original look. Additionally, most of the upscaled results have been retouched and improved manually.
 
-N.B. You may not notice the difference during general gameplay unless you're playing in a high resolution or viewing the characters up close
+All files from this addon may be freely used by any mod or anything else. See the LICENSE file at https://github.com/BC46/freelancer-hd-character-models/blob/main/LICENSE for more information.
 </description>
 </header>
 
