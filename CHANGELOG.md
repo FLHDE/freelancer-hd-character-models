@@ -1,6 +1,6 @@
 # Changelog
 
-## [[2.0] - 2021-12-02](https://github.com/BC46/freelancer-hd-character-models/releases/tag/1.1)
+## [[2.0] - 2021-12-02](https://github.com/BC46/freelancer-hd-character-models/releases/tag/2.0)
 
 ### Changed
 * Improved Bodies
