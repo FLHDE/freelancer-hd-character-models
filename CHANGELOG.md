@@ -1,5 +1,15 @@
 # Changelog
 
+## [[2.1] - 2022-03-19](https://github.com/BC46/freelancer-hd-character-models/releases/tag/2.1)
+
+### Changed
+* Compressed .tga textures to .dds using DXT1 and DXT5. ~1.2 GB saved
+* Fixed weird artifact on Orillion's lip
+* Fixed ridge on the green glass
+* Removed orange stripes from Tobias' mustache
+* Improved several textures which were previously not as good as they should've been
+
+
 ## [[2.0] - 2021-12-02](https://github.com/BC46/freelancer-hd-character-models/releases/tag/2.0)
 
 ### Changed
